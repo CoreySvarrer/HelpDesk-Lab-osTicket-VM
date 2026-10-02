@@ -1,3 +1,7 @@
+<img width="1700" height="1000" alt="55534921-0139-48d7-816b-0f3a75aa0d09" src="https://github.com/user-attachments/assets/d3b922f4-58fe-492f-9f2f-8a15a20136d3" />
+
+
+
 # HelpDesk-Lab-osTicket-VM
 This is a project where I built and installed a virtual IT helpdesk environment by using a virtual machine that I also created and configured and an osTicket system.
 ## 🛠️ Technologies & Tools
@@ -19,10 +23,9 @@ This is a project where I built and installed a virtual IT helpdesk environment 
 
 # 🖥️ 1. Virtual Machine Setup/Configuration
 
-### Objective
 
-Create and configure the virtual machine that will host the IT help desk environment.
 <details> 
+ <summary>🏗️Building Virtual Machine</summary>
 <img width="2556" height="1228" alt="Creating the VM" src="https://github.com/user-attachments/assets/a6255e81-4a9c-4627-aa98-403bcafae796" />
 This is where I start the initial process of creating a virtual machine. I need to create a VM in order to install and osTicket system, Windows, IIS, and PHP without messing anything up on my actual computer or host computer. Here is also where we will set the username and password for the Admin Account.
 
@@ -63,10 +66,9 @@ This is the very next page that we get if we put in the correct information to l
 
 # 🎫 2. osTicket Installation and Setup
 
-### Objective
 
-Install and configure the operating system required for the help desk environment.
 <details>
+ <summary>🏛️ Building & Configuring osTicket System</summary>
 <img width="2523" height="338" alt="Downloading OsTicket Files on VM" src="https://github.com/user-attachments/assets/463f5e5e-d62c-4904-87a0-d1ebe57e1f9c" />
  This is the first step in setting up the osTicket system. I had to go download all the files I will need in order to allow and make sure the ticketing system actually works, without these application files the osTicket system wouldn't be able to work.
  
