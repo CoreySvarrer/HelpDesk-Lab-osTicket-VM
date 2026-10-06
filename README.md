@@ -8,7 +8,7 @@ This is a project where I built and installed a virtual IT helpdesk environment 
 
  Technology / Tool  Purpose 
 
-💻 Virtual Machine
+☁️ Microsoft Azure
  
 💿Operating System
  
